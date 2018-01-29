@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516870840 source:c:\users\nir\desktop\debug\debug3\main.c
+	<stdio.h>
+	<stdlib.h>
+
